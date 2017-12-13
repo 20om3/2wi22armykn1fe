@@ -11,7 +11,7 @@ Get "copy all urls"(chrome add-on)
 Open tabs as you like.  
 Push the add-on icon you can see on your right side of your web chrome browser, then select "copy".
 
-*On your terminal,*
+*On your terminal,*  
   `sudo apt-get install wkhtmltopdf`  
   `mkdir [directry where you want to save pdfs]`  
   `cp pdfdownloader.sh [directory where you made now]`  
